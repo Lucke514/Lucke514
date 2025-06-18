@@ -62,6 +62,11 @@ Soy desarrollador **Full Stack** apasionado por crear soluciones web modernas, e
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucke514&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucke514&show_icons=true&theme=radical)
+
+---
+
 ## 📬 Contacto
 
 - 📫 **Correo**: lucas@lucke.cl 
