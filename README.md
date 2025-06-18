@@ -7,7 +7,7 @@ Soy desarrollador **Full Stack** apasionado por crear soluciones web modernas, e
 ## 👨‍💻 Sobre mí
 
 - 🎓 Analista Programador titulado
-- 🎓 Estudiante de Ingeniería en Informática (egreso 2026)
+- 🎓 Ingeniería en Informática (Egreso 2025)
 - 🎓 Diplomado en Ciberseguridad Industrial
 - 🧠 Enfocado en auditoría TI/OT, automatización y bots inteligentes
 - 🚀 Apasionado por el desarrollo de herramientas ofensivas y sistemas backend robustos
