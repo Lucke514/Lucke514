@@ -63,6 +63,8 @@ Soy desarrollador **Full Stack** apasionado por crear soluciones web modernas, e
 ---
 
 ⚠️ Gran parte de mi trabajo se encuentra en repositorios privados, por lo que mis estadísticas públicas no reflejan todo mi nivel de actividad. ¡Pero puedes ver mi historial de contribuciones abajo! 👇
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucke514&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucke514&show_icons=true&theme=radical)
 
