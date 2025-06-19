@@ -17,10 +17,10 @@ Soy desarrollador **Full Stack** apasionado por crear soluciones web modernas, e
 ## 🛠️ Tecnologías que uso
 
 ### Frontend  
-- **React**, **Next.js**, **TypeScript**, **TailwindCSS**
+- **React**, **Next.js**, **TypeScript**, **TailwindCSS**, **Shadcn**, **Angular**, **Astro**
 
 ### Backend  
-- **Node.js**, **NestJS**, **Express**, **Bun**, **Python**
+- **Node.js**, **NestJS**, **Express**, **Bun**, **Python**, **FastAPI**
 
 ### ORM y Bases de Datos  
 - **Prisma ORM**  
